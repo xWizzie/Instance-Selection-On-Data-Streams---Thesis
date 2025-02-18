@@ -18,7 +18,7 @@ The repository includes implementations of several instance selection algorithms
 
 - **IB1-3**: A standard instance-based learning algorithm adapted for streaming data.
 - **TWF**: The Time-Weighted Function classifier, emphasizing recent data in streams.
-- **LWF**: The Learn++ for Weighted Features algorithm, which handles evolving data distributions.
+- **LWF**: The Locally-Weighted Forgetting algorithm, which handles evolving data distributions.
 - **PECS**: Prototype Evolution for Classification in data Streams, focusing on maintaining representative prototypes.
 - **DRHC**: A dynamic recursive hybrid classifier tailored for concept drift scenarios.
 - **AIB**: An advanced instance-based algorithm designed for efficient data stream processing.
