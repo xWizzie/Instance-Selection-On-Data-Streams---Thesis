@@ -32,7 +32,6 @@ To run the code in this repository, ensure you have Python installed. Clone the 
 ```bash
 git clone https://github.com/xWizzie/Instance-Selection-On-Data-Streams---Thesis.git
 cd Instance-Selection-On-Data-Streams---Thesis
-pip install -r requirements.txt
 ```
 
 ## Usage
